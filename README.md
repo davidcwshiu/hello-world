@@ -1,3 +1,4 @@
 # hello-world
-Hello World
-Hi there!
+This is something new! Wow!
+
+I like hello world!
